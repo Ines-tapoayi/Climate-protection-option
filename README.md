@@ -8,7 +8,6 @@ The option is designed to protect firms against financial losses caused by extre
 
 A custom **Heat Index** is constructed from historical daily maximum temperatures and used as the underlying variable of the option. The premium is estimated using **Bootstrap Monte Carlo simulation**.
 
----
 
 ## Objectives
 
@@ -18,7 +17,7 @@ A custom **Heat Index** is constructed from historical daily maximum temperature
 * Determine an objective strike using the 95th percentile
 * Analyze the sensitivity of the option premium
 
----
+
 
 ## Methodology
 
@@ -30,7 +29,7 @@ A custom **Heat Index** is constructed from historical daily maximum temperature
 * Discounted premium estimation
 * Sensitivity analysis
 
----
+
 
 ## Key Results
 
@@ -40,8 +39,6 @@ A custom **Heat Index** is constructed from historical daily maximum temperature
 * Exercise probability: **7.41%**
 * Sensitivity analysis performed for different strike levels
 
-
----
 
 ## Technologies
 
@@ -54,7 +51,6 @@ A custom **Heat Index** is constructed from historical daily maximum temperature
 * Quantitative Finance
 
 
-
 ## Future Improvements
 
 * Use multiple French regions
@@ -62,7 +58,7 @@ A custom **Heat Index** is constructed from historical daily maximum temperature
 * Calibrate the option using real economic losses
 * Compare Bootstrap with stochastic temperature models
 
----
+
 
 ## Author
 
