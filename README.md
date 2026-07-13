@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project presents the design and pricing of a **Climate Protection Option (CPO)** inspired by Hull's *Options, Futures and Other Derivatives*.
-
-The option is designed to protect firms against financial losses caused by extreme summer heat.
+This project presents the design and pricing of a **Climate Protection Option (CPO)** inspired by Hull's *Options, Futures and Other Derivatives*.The option is designed to protect firms against financial losses caused by extreme summer heat.
 
 A custom **Heat Index** is constructed from historical daily maximum temperatures and used as the underlying variable of the option. The premium is estimated using **Bootstrap Monte Carlo simulation**.
 
