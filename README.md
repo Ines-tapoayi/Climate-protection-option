@@ -1,11 +1,3 @@
-# Climate-protection-option
-
-Oui, c'est exactement ce style que je ferais. Il est propre, professionnel et les recruteurs peuvent comprendre ton projet en 30 secondes.
-
-Je te propose ce README.
-
----
-
 # Climate Protection Option (CPO)
 
 ## Overview
